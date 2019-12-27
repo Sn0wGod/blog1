@@ -1,0 +1,38 @@
+
+.join{
+	margin-left: 7px;
+}
+.views{
+	margin-left: 48%;
+}
+.share{
+	margin-left: 20%;
+}
+.buto{
+	width: 100%;
+}
+.navis{
+	margin-left: 35%;
+}
+.account{
+	margin-left: 80px;
+}
+.dot{
+	margin-left: 30%;
+}
+.space{
+	margin-left: 0;
+}
+.views{
+	margin-left: 20%;
+}
+.btn{
+	margin-bottom: 10px;
+}
+.jumbotron{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvpR7ewwvh5JRbl8pJbb_i5UlO-xJBAxdsNALmHBZlcIyLxNVYQQ&s);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 100% 100%;
+
+}
